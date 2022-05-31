@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jimmy0024
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python, Machine Learning
 - 💞️ I’m looking to collaborate on small project where I can contribute and learn at the same time...
 - 📫 How to reach me ... 
